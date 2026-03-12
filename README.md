@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img width="48" height="48" alt="2048-3ds-port-icon" src="https://github.com/user-attachments/assets/592c5afb-28a3-4046-a8b9-51f743831ca6" />
+</div>
+
 # 🎮 2048 3DS Port
 
 ### The classic 2048 game running on your Nintendo 3DS
@@ -28,17 +32,14 @@ This project is a port of the excellent [2048.c](https://github.com/mevdschee/20
 
 ---
 
-## 📸 Screenshots
-
-> 🚧 _Screenshots coming soon!_
-
-<!-- Space reserved for images -->
-<!-- 
-<div align="center">
-  <img src="screenshots/gameplay.png" alt="Gameplay" width="400"/>
-  <img src="screenshots/menu.png" alt="Menu" width="400"/>
-</div>
--->
+## 📸 Images
+ 
+<details>
+  <summary>Show image</summary>
+  <div align="center">
+    <img width="300" height="300" alt="2048-3ds-port-icon" src="https://github.com/user-attachments/assets/25962755-0a2e-4212-b0f5-ec8ab2ef93b1" />
+  </div>
+</details>
 
 ---
 
