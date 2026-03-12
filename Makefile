@@ -41,6 +41,7 @@ GFXBUILD	:=	$(BUILD)
 APP_TITLE	:= 2048 3DS Port
 APP_DESCRIPTION	:= A port of 2048 from Linux to the Nintendo 3DS
 APP_AUTHOR	:= 0rientd
+ICON 		:= 2048-3ds-port-icon.png
 #ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
 #---------------------------------------------------------------------------------
