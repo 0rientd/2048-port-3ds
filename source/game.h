@@ -26,7 +26,7 @@
  * CONSTANTES DO JOGO
  * ============================================================================ */
 
-#define VERSION "1.0.0"
+#define VERSION "1.1.1"
 
 // Tamanho do tabuleiro (4x4)
 #define SIZE 4
