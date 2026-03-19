@@ -10,7 +10,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Nintendo%203DS-red.svg)](https://www.nintendo.com/3ds/)
-[![Version](https://img.shields.io/badge/version-1.0.1-green.svg)](https://github.com/0rientd/2048-port-3ds/releases)
+[![Version](https://img.shields.io/badge/version-1.1.1-green.svg)](https://github.com/0rientd/2048-port-3ds/releases)
 
 [About](#-about) • [Images](#-images) • [Installation](#-installation) • [Building](#️-building) • [Contributing](#-contributing)
 

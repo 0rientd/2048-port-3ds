@@ -3,7 +3,7 @@
  * Name        : 2048 3DS Port
  * File        : main.c
  * Author      : 0rientd
- * Version     : 1.0.0
+ * Version     : 1.1.1
  * Description : Ponto de entrada e loop principal do jogo 2048 para Nintendo 3DS.
  *               
  *               Este arquivo contém:
