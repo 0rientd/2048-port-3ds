@@ -12,7 +12,7 @@
 [![Platform](https://img.shields.io/badge/platform-Nintendo%203DS-red.svg)](https://www.nintendo.com/3ds/)
 [![Version](https://img.shields.io/badge/version-1.0.1-green.svg)](https://github.com/0rientd/2048-port-3ds/releases)
 
-[About](#-about) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Building](#️-building) • [Contributing](#-contributing)
+[About](#-about) • [Images](#-images) • [Installation](#-installation) • [Building](#️-building) • [Contributing](#-contributing)
 
 </div>
 
