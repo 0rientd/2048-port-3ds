@@ -37,7 +37,10 @@ This project is a port of the excellent [2048.c](https://github.com/mevdschee/20
 <details>
   <summary>Show image</summary>
   <div align="center">
-    <img width="300" height="300" alt="2048-3ds-port-icon" src="https://github.com/user-attachments/assets/25962755-0a2e-4212-b0f5-ec8ab2ef93b1" />
+    <img width="300" height="350" alt="screenshot-1" src="https://github.com/user-attachments/assets/02371dda-0eb7-49a4-b1b1-5340e54a375f" />
+    <img width="300" height="350" alt="screenshot-2" src="https://github.com/user-attachments/assets/5430ead1-390e-4937-867a-0b2ebbac2dfd" />
+    <img width="300" height="350" alt="screenshot-3" src="https://github.com/user-attachments/assets/3c314c14-4ce3-416c-ae91-15308db6e4d2" />
+    <img width="300" height="350" alt="screenshot-4" src="https://github.com/user-attachments/assets/8ad8c1ec-971d-42fd-b401-5fae5fd5d240" />
   </div>
 </details>
 
